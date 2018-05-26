@@ -31,9 +31,11 @@
 		<dict>
 			<key>CFBundleTypeRole</key>
 			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string></string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>v2exProclient</string>
+				<string>v2exclient</string>
 			</array>
 		</dict>
 		<dict>

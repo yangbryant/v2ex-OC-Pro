@@ -6,11 +6,11 @@
 	<string>development</string>
 	<key>com.apple.security.application-groups</key>
 	<array>
-		<string>group.com.wutouqishi.todayPro</string>
+		<string>group.org.srefan.todayPro</string>
 	</array>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>$(AppIdentifierPrefix)com.wutouqishi.v2exPro</string>
+		<string>$(AppIdentifierPrefix)org.srefan.v2exPro</string>
 	</array>
 </dict>
 </plist>

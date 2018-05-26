@@ -335,7 +335,7 @@ static WTAccountViewModel *_instance;
         
         if (failure)
         {
-            failure([[NSError alloc] initWithDomain: @"com.wutouqishi" code: -1011 userInfo: @{@"errorInfo" : @"获取验证码Url失败"}]);
+            failure([[NSError alloc] initWithDomain: @"org.srefan" code: -1011 userInfo: @{@"errorInfo" : @"获取验证码Url失败"}]);
         }
     } failure:^(NSError *error) {
         if (failure)
